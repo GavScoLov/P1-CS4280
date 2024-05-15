@@ -1,6 +1,7 @@
 CS4280 - Project 1 - March 4th, 2024
 Author: Gavin Love
 Language: C++
+Grade: 92%
 
 Citations:
  1. 
